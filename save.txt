@@ -1,0 +1,18 @@
+bout = 2
+
+name = rui
+money = 10
+points = 6
+joker2 = 1
+joker3 = 1
+teams = [<tVal.tie: 4>, <tVal.valid: 2>, <tVal.valid: 2>, <tVal.valid: 2>, <tVal.valid: 2>, <tVal.betting: 5>]
+lock = -1
+lost = 0
+name = afonso
+money = 10
+points = 0
+joker2 = 1
+joker3 = 1
+teams = [<tVal.betting: 5>, <tVal.valid: 2>, <tVal.loser: 1>, <tVal.valid: 2>, <tVal.valid: 2>, <tVal.valid: 2>]
+lock = 0
+lost = 0
